@@ -2,7 +2,7 @@
 
 ## Deployed API URL
 
-**API URL**: [https://your-deployed-api-url.com](https://your-deployed-api-url.com)
+**API URL**: [https://open-ai-extract-product.onrender.com](https://open-ai-extract-product.onrender.com)
 
 ---
 
@@ -45,7 +45,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/open-ai-server.git
+   git clone https://github.com/dipeshpawar118/open-ai-extract-product
    cd open-ai-server
    ```
 
